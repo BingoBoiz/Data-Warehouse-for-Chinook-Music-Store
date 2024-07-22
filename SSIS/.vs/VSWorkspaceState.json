@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SSIS_Data",
+    "\\SSIS_Data\\bin",
+    "\\SSIS_Data\\bin\\Development",
+    "\\SSIS_Data\\obj",
+    "\\SSIS_Data\\obj\\Development"
+  ],
+  "SelectedNode": "\\SSIS_Data\\Package.dtsx",
+  "PreviewInSolutionExplorer": false
+}
